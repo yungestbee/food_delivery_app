@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Yam & Beans",
+    "price": 3000,
+    "image": "../beansLogo. png",
+    "status": "placed",
+    "id": "673822828",
+    "restaurantAddress": "victoria island, lagos. ",
+    "customerAddress": "Oshodi, lagos",
+    "customerContact": "09034249186",
+    "restaurantContact": "09053644527",
+    "restaurantName": "The Place",
+    "customerName": "sodiq funmilayo"
+  },
+  {
+    "name": "Jollof Rice",
+    "price": 2500,
+    "image": "../beansLogo. png",
+    "status": "placed",
+    "id": "67382777728",
+    "restaurantAddress": "victoria island, lagos. ",
+    "customerAddress": "ikorodu, lagos",
+    "customerContact": "09034249186",
+    "restaurantContact": "09053644527",
+    "restaurantName": "The Place",
+    "customerName": "sodiq funmilayo"
+  },
+  {
+    "name": "semo & Egusi",
+    "price": 3500,
+    "image": "../beansLogo. png",
+    "status": "placed",
+    "id": "2133822828",
+    "restaurantAddress": "victoria island, lagos. ",
+    "customerAddress": "Festac, lagos",
+    "customerContact": "09034249186",
+    "restaurantContact": "09053644527",
+    "restaurantName": "The Place",
+    "customerName": "sodiq funmilayo"
+  }
+]
